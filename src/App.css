@@ -1,0 +1,10 @@
+.fetch-dogs-container {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+
+.app-container {
+  display: flex;
+  gap: 40px;
+}
